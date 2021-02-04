@@ -58,7 +58,7 @@ instance console connection.
 3.  In the **Resources** section on the **Instance Details** page, click
     **Console Connections**, and then click **Create Console
     Connection**.  
-    <img src="./media/image1.png" style="width:6.5in;height:2.04097in" />
+    <img src="./media/Image1.png" style="width:6.5in;height:2.04097in" />
 
 4.  Add your public SSH key, either by browsing and selecting a public
     key file, for example id\_rsa.pub, or by pasting your public key
